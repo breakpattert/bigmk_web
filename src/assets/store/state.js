@@ -1,0 +1,32 @@
+const state = {
+    safe_token: '',
+    goods_info: {},
+    attributes: [],
+    stockGoods: [],
+    skuKeys: [],
+    cart_info: {},
+    cart2_info: {},
+    checked: {},
+    result: '',
+    carriage: '',
+    number: '',
+    total: '',
+    count: '',
+    model_show: false,
+    initiates:'',
+    conclude:'',
+    joinquota: '',
+    check_coupons: [],
+    cart2_promotion: [],
+    address_id:'',
+    address:'',
+    quotas:[],
+    play:'false',
+    triumph:[],
+    province:'',
+    promo:'',
+    orders_id:'',
+};
+
+
+export default state

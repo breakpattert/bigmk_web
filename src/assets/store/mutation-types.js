@@ -1,0 +1,7 @@
+export const SET_SAFE_TOKEN = 'SET_SAFE_TOKEN';
+export const SET_GOODS_INFO = 'SET_GOODS_INFO';
+export const SET_CART_INFO = 'SET_CART_INFO';
+export const SET_CART2_INFO = 'SET_CART2_INFO';
+export const TO_CHANGE_COUPON = 'TO_CHANGE_COUPON';
+export const TO_CHANGE_SWITCH = 'TO_CHANGE_SWITCH';
+export const TO_CHANGE_CART_NUM = 'TO_CHANGE_CART_NUM';
